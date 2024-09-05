@@ -11,7 +11,7 @@
       {
         "id": 1,
         "award": "Golden Reel Award",
-        "category": "Outstanding Music Editing",
+        "category": "Outstanding Achievement in Music Editing - Music Score",
         "work": "Wonder Woman 1984",
         "year": 2020
       }
@@ -21,21 +21,24 @@
         "id": 2,
         "award": "Grammy Award",
         "category": "Best Arrangement, Instrument and Vocals",
-        "work": "Jacob Collier",
+        "work": "All Night Long",
+        "artist": "Jacob Collier",
         "year": 2019
       },
       {
         "id": 3,
         "award": "Grammy Award",
         "category": "Best Arrangement, Instrument and Vocals",
-        "work": "Jacob Collier",
+        "work": "You and I",
+        "artist": "Jacob Collier",
         "year": 2017
       },
       {
         "id": 4,
         "award": "Grammy Award",
         "category": "Best Arrangement, Instrumental or A Capella",
-        "work": "Jacob Collier",
+        "work": "Flintstones",
+        "artist": "Jacob Collier",
         "year": 2017
       }
     ]
