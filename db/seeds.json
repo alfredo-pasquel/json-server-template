@@ -45,7 +45,7 @@
   },
   "known_for": [
     {
-      "id": "1",
+      "id": "4",
       "title": "One Piece",
       "year": 2023,
       "rating": 8.3,
@@ -55,7 +55,7 @@
       "image": "https://m.media-amazon.com/images/M/MV5BYjI0YWJhZTUtMTJhNy00OTEzLThkMjItOThkMmIzMmU4YjliXkEyXkFqcGc@._V1_.jpg"
     },
     {
-      "id": "2",
+      "id": "13",
       "title": "The Lion King",
       "year": 2019,
       "rating": 6.8,
@@ -63,7 +63,7 @@
       "image": "https://m.media-amazon.com/images/M/MV5BMjIwMjE1Nzc4NV5BMl5BanBnXkFtZTgwNDg4OTA1NzM@._V1_.jpg"
     },
     {
-      "id": "3",
+      "id": "7",
       "title": "Dune",
       "year": 2021,
       "rating": 8,
@@ -74,192 +74,188 @@
   "music_credits": [
     {
       "id": "1",
-      "title": "Kung Fu Panda 3",
-      "year": 2016,
-      "rating": 7.1,
-      "role": "score assistant engineer",
-      "image": "https://m.media-amazon.com/images/M/MV5BMTUyNzgxNjg2M15BMl5BanBnXkFtZTgwMTY1NDI1NjE@._V1_.jpg"
+      "title": "Red Sonja",
+      "status": "Post-production",
+      "year": 2025,
+      "role": "mixing engineer",
+      "image": "https://m.media-amazon.com/images/M/MV5BMzU2MGI2NGEtZGZlZC00NjQxLThkMWMtMzZlNDY4Mjk4ZThkXkEyXkFqcGc@._V1_.jpg"
     },
     {
       "id": "2",
-      "title": "Batman v Superman: Dawn of Justice",
-      "year": 2016,
-      "rating": 6.5,
-      "role": "assistant engineer",
-      "image": "https://m.media-amazon.com/images/M/MV5BYThjYzcyYzItNTVjNy00NDk0LTgwMWQtYjMwNmNlNWJhMzMyXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_FMjpg_UY576_.jpg"
+      "title": "Black Dog",
+      "year": 2024,
+      "rating": 7,
+      "role": "score mixer",
+      "image": "https://m.media-amazon.com/images/M/MV5BYjRhODM0ZTYtMTE2Ni00MTAxLTkwMDMtNjUwZjRlOTNkYTM0XkEyXkFqcGc@._V1_.jpg"
     },
     {
       "id": "3",
-      "title": "Captain America: Civil War",
-      "year": 2016,
-      "rating": 7.8,
-      "role": "assistant engineer",
-      "image": "https://m.media-amazon.com/images/M/MV5BMjQ0MTgyNjAxMV5BMl5BanBnXkFtZTgwNjUzMDkyODE@._V1_.jpg"
+      "title": "Popular Theory",
+      "year": 2023,
+      "rating": 5.8,
+      "role": "score mixer",
+      "image": "https://m.media-amazon.com/images/M/MV5BZTk0MTVjYWUtYzE5MC00NjY1LTgxMzktZDZmZTBjYjk3YjQ1XkEyXkFqcGc@._V1_.jpg"
     },
     {
       "id": "4",
-      "title": "The Last Face",
-      "year": 2016,
-      "rating": 5,
-      "role": "assistant engineer",
-      "image": "https://m.media-amazon.com/images/M/MV5BMTg1NTU3OTcyMF5BMl5BanBnXkFtZTgwMDY5Njc3MDI@._V1_.jpg"
+      "title": "One Piece",
+      "year": 2023,
+      "rating": 8.3,
+      "type": "TV Series",
+      "role": "additional mixing engineer",
+      "episodes": 8,
+      "image": "https://m.media-amazon.com/images/M/MV5BYjI0YWJhZTUtMTJhNy00OTEzLThkMjItOThkMmIzMmU4YjliXkEyXkFqcGc@._V1_.jpg"
     },
     {
       "id": "5",
-      "title": "The Edge of Seventeen",
-      "year": 2016,
-      "rating": 7.3,
-      "role": "assistant engineer",
-      "image": "https://m.media-amazon.com/images/M/MV5BODE2NjE4NjYyMV5BMl5BanBnXkFtZTgwNzk3MjQ0OTE@._V1_.jpg"
+      "title": "Wednesday",
+      "year": 2022,
+      "rating": 8.1,
+      "type": "TV Series",
+      "role": "score mix assistant",
+      "episodes": 1,
+      "image": "https://m.media-amazon.com/images/M/MV5BM2ZmMjEyZmYtOGM4YS00YTNhLWE3ZDMtNzQxM2RhNjBlODIyXkEyXkFqcGdeQXVyMTUzMTg2ODkz._V1_.jpg"
     },
     {
       "id": "6",
-      "title": "Inferno",
-      "year": 2016,
-      "rating": 6.2,
-      "role": "assistant engineer",
-      "image": "https://m.media-amazon.com/images/M/MV5BMTUzNTE2NTkzMV5BMl5BanBnXkFtZTgwMDAzOTUyMDI@._V1_.jpg"
+      "title": "Prey",
+      "year": 2022,
+      "rating": 7.1,
+      "role": "score mix assistant",
+      "image": "https://m.media-amazon.com/images/M/MV5BMDBlMDYxMDktOTUxMS00MjcxLWE2YjQtNjNhMjNmN2Y3ZDA1XkEyXkFqcGdeQXVyMTM1MTE1NDMx._V1_.jpg"
     },
     {
       "id": "7",
-      "title": "Planet Earth II",
-      "year": 2016,
-      "rating": 9.5,
-      "type": "TV Mini Series",
-      "role": "assistant engineer",
-      "episodes": 6,
-      "image": "https://m.media-amazon.com/images/M/MV5BMzY4NDBkMWYtYzdkYy00YzBjLWJmODctMWM4YjYzZTdjNWE5XkEyXkFqcGc@._V1_.jpg"
+      "title": "Dune",
+      "year": 2021,
+      "rating": 8,
+      "role": "digital instrument preparation assistant",
+      "image": "https://m.media-amazon.com/images/M/MV5BMDQ0NjgyN2YtNWViNS00YjA3LTkxNDktYzFkZTExZGMxZDkxXkEyXkFqcGdeQXVyODE5NzE3OTE@._V1_.jpg"
     },
     {
       "id": "8",
-      "title": "Rings",
-      "year": 2017,
-      "rating": 4.5,
-      "role": "assistant engineer",
-      "image": "https://m.media-amazon.com/images/M/MV5BYTQzZjhiYjYtNDMzOS00ZjNiLTg2MGMtYWZmYWNjN2U5YTVmXkEyXkFqcGdeQXVyNjI3OTcxOTU@._V1_.jpg"
+      "title": "Mortal Kombat",
+      "year": 2021,
+      "rating": 6,
+      "role": "technical assistant",
+      "image": "https://m.media-amazon.com/images/M/MV5BY2ZlNWIxODMtN2YwZi00ZjNmLWIyN2UtZTFkYmZkNDQyNTAyXkEyXkFqcGdeQXVyODkzNTgxMDg@._V1_.jpg"
     },
     {
       "id": "9",
-      "title": "The Ottoman Lieutenant",
-      "year": 2017,
-      "rating": 6.4,
-      "role": "score mix assistant",
-      "image": "https://m.media-amazon.com/images/M/MV5BMTg3ZDVlMjgtNTM4Yi00ZTQ3LThmM2QtYzdjZmRjMTcxMTkzXkEyXkFqcGdeQXVyNDExMzMxNjE@._V1_.jpg"
+      "title": "Wonder Woman 1984",
+      "year": 2020,
+      "rating": 5.4,
+      "role": "score editor",
+      "image": "https://m.media-amazon.com/images/M/MV5BYTdkYjI0M2ItMmUxZi00YjU1LTgwM2ItODgxNDY0ODZhZDQzXkEyXkFqcGc@._V1_.jpg"
     },
     {
       "id": "10",
-      "title": "The Boss Baby",
-      "year": 2017,
-      "rating": 6.3,
-      "role": [
-        "overdub assistant engineer",
-        "score mix assistant engineer"
-      ],
-      "image": "https://m.media-amazon.com/images/M/MV5BMTg5MzUxNzgxNV5BMl5BanBnXkFtZTgwMTM2NzQ3MjI@._V1_.jpg"
+      "title": "Youth v Gov",
+      "year": 2020,
+      "rating": 6.2,
+      "role": "score mix assistant",
+      "image": "https://m.media-amazon.com/images/M/MV5BYTA0NjVkMTUtZmMwYy00N2NjLTg4ZjQtZjVlZmU3NWM0NDM1XkEyXkFqcGc@._V1_.jpg"
     },
     {
       "id": "11",
-      "title": "Sand Castle",
-      "year": 2017,
-      "rating": 6.3,
-      "role": "assistant recording engineer",
-      "image": "https://m.media-amazon.com/images/M/MV5BMDFmNGUwYTMtNDMyMC00YWM2LWEwOTktNTM1YWI0NDRiMDY3XkEyXkFqcGc@._V1_.jpg"
+      "title": "His Dark Materials",
+      "year": 2019,
+      "rating": 7.8,
+      "type": "TV Series",
+      "role": "score mixer",
+      "episodes": 1,
+      "image": "https://m.media-amazon.com/images/M/MV5BZjM2MDIxMTYtMDUwYy00Y2VlLTgwZWQtMTE4MzgyNzNmYmRjXkEyXkFqcGc@._V1_.jpg"
     },
     {
       "id": "12",
-      "title": "Pirates of the Caribbean: Dead Men Tell No Tales",
-      "year": 2017,
-      "rating": 6.5,
-      "role": "assistant engineer",
-      "image": "https://m.media-amazon.com/images/M/MV5BMTYyMTcxNzc5M15BMl5BanBnXkFtZTgwOTg2ODE2MTI@._V1_.jpg"
+      "title": "Jumanji: The Next Level",
+      "year": 2019,
+      "rating": 6.7,
+      "role": "additional engineering",
+      "image": "https://m.media-amazon.com/images/M/MV5BOTVjMmFiMDUtOWQ4My00YzhmLWE3MzEtODM1NDFjMWEwZTRkXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_.jpg"
     },
     {
       "id": "13",
-      "title": "Wonder Woman",
-      "year": 2017,
-      "rating": 7.3,
-      "role": "assistant engineer",
-      "image": "https://m.media-amazon.com/images/M/MV5BMjEzYmZkNjktODBmYi00NzNkLWIzMjItMjhkMWZiZTZlN2MwXkEyXkFqcGc@._V1_.jpg"
+      "title": "The Lion King",
+      "year": 2019,
+      "rating": 6.8,
+      "role": "additional engineering",
+      "image": "https://m.media-amazon.com/images/M/MV5BMjIwMjE1Nzc4NV5BMl5BanBnXkFtZTgwNDg4OTA1NzM@._V1_.jpg"
     },
     {
       "id": "14",
-      "title": "Despicable Me 3",
-      "year": 2017,
-      "rating": 6.2,
-      "role": "score mix assistant",
-      "image": "https://m.media-amazon.com/images/M/MV5BNjUyNzQ2MTg3Ml5BMl5BanBnXkFtZTgwNzE4NDM3MTI@._V1_.jpg"
+      "title": "In Full Bloom",
+      "year": 2019,
+      "rating": 5.5,
+      "role": "score engineer",
+      "image": "https://m.media-amazon.com/images/M/MV5BYjc5YjQ2ODgtOWI3Zi00ZDA1LWJmMWYtMDNiMTU2ZDgyMmNmXkEyXkFqcGc@._V1_.jpg"
     },
     {
       "id": "15",
-      "title": "Dunkirk",
-      "year": 2017,
-      "rating": 7.8,
+      "title": "X-Men: Dark Phoenix",
+      "year": 2019,
+      "rating": 5.7,
       "role": "additional engineering",
-      "image": "https://m.media-amazon.com/images/M/MV5BN2YyZjQ0NTEtNzU5MS00NGZkLTg0MTEtYzJmMWY3MWRhZjM2XkEyXkFqcGdeQXVyMDA4NzMyOA@@._V1_.jpg"
+      "image": "https://m.media-amazon.com/images/M/MV5BZjcwMDIyNjctMDVmNS00MzkyLTgxMDMtNTFmNTk0NDkyNzdjXkEyXkFqcGc@._V1_.jpg"
     },
     {
       "id": "16",
-      "title": "The Nut Job 2: Nutty by Nature",
-      "year": 2017,
-      "rating": 5.5,
-      "role": [
-        "additional recording engineer assistant",
-        "recording engineer assistant",
-        "score mix assistant"
-      ],
-      "image": "https://m.media-amazon.com/images/M/MV5BMzE2MWI4OGYtNzNjZi00NzFiLWJjOGYtOThmZDg2MWY2OWVlXkEyXkFqcGc@._V1_.jpg"
+      "title": "The Intruder",
+      "year": 2019,
+      "rating": 5.6,
+      "role": "score mix assistant",
+      "image": "https://m.media-amazon.com/images/M/MV5BNTczMzc4NDY0MF5BMl5BanBnXkFtZTgwMjI3Njg3NjM@._V1_.jpg"
     },
     {
       "id": "17",
-      "title": "It",
-      "year": 2017,
+      "title": "The Cry",
+      "year": 2018,
       "rating": 7.3,
-      "role": "score mix assistant (uncredited)",
-      "image": "https://m.media-amazon.com/images/M/MV5BZDVkZmI0YzAtNzdjYi00ZjhhLWE1ODEtMWMzMWMzNDA0NmQ4XkEyXkFqcGdeQXVyNzYzODM3Mzg@._V1_.jpg"
+      "type": "TV Mini Series",
+      "role": "music scoring mixer",
+      "episodes": 4,
+      "image": "https://m.media-amazon.com/images/M/MV5BMGZkMDY3OTctNmVkZS00NWUxLWIyZDEtOWM4MjZjZGUwOTMxXkEyXkFqcGc@._V1_.jpg"
     },
     {
       "id": "18",
-      "title": "Hans Zimmer Live in Prague",
-      "year": 2017,
-      "rating": 9.1,
-      "type": "TV Movie",
+      "title": "FIFA 19",
+      "year": 2018,
+      "rating": 6.3,
+      "type": "Video Game",
       "role": "score mix assistant",
-      "image": "https://m.media-amazon.com/images/M/MV5BZTFiMWVmYWQtZTJiZi00MTZlLWI1MjUtZDNlYWExZjQ3NDA1XkEyXkFqcGc@._V1_.jpg"
+      "image": "https://m.media-amazon.com/images/M/MV5BOGQ5ZWZiOTQtY2IwYS00YTY0LTgxMDktOTZkNmI4MmIyYzU0XkEyXkFqcGc@._V1_.jpg"
     },
     {
       "id": "19",
-      "title": "Blue Planet II",
-      "year": 2017,
-      "rating": 9.3,
-      "type": "TV Mini Series",
+      "title": "Green Book",
+      "year": 2018,
+      "rating": 8.2,
       "role": "score mix assistant",
-      "episodes": 7,
-      "image": "https://m.media-amazon.com/images/M/MV5BODI3YTZhNmEtMTlmYy00NjBlLTkyOGEtYTk2YWVmMzAxZjQ4XkEyXkFqcGc@._V1_.jpg"
+      "image": "https://m.media-amazon.com/images/M/MV5BYzIzYmJlYTYtNGNiYy00N2EwLTk4ZjItMGYyZTJiOTVkM2RlXkEyXkFqcGdeQXVyODY1NDk1NjE@._V1_.jpg"
     },
     {
       "id": "20",
-      "title": "Oceans of Wonder",
+      "title": "The Predator",
       "year": 2018,
-      "rating": 8.1,
-      "type": "TV Special",
+      "rating": 5.3,
       "role": "score mix assistant",
-      "image": "https://m.media-amazon.com/images/M/MV5BYjExNTZhMTctYTA2OC00MzgxLTk1NzMtNmRjY2I1NzNiYWUxXkEyXkFqcGc@._V1_.jpg"
+      "image": "https://m.media-amazon.com/images/M/MV5BMjM5MDk2NDIxMF5BMl5BanBnXkFtZTgwNjU5NDk3NTM@._V1_.jpg"
     },
     {
       "id": "21",
-      "title": "12 Strong",
+      "title": "The Darkest Minds",
       "year": 2018,
-      "rating": 6.5,
+      "rating": 5.7,
       "role": "score mix assistant",
-      "image": "https://m.media-amazon.com/images/M/MV5BNTEzMjk3NzkxMV5BMl5BanBnXkFtZTgwNjY2NDczNDM@._V1_.jpg"
+      "image": "https://m.media-amazon.com/images/M/MV5BMTUxOGE3OTUtM2I2My00YzE3LTg2NDktZTI3NjE4NDdjMGFiXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_.jpg"
     },
     {
       "id": "22",
-      "title": "The Hurricane Heist",
+      "title": "Animal World",
       "year": 2018,
-      "rating": 5.1,
+      "rating": 6.5,
       "role": "score mix assistant",
-      "image": "https://m.media-amazon.com/images/M/MV5BMzg3Y2MyNjgtMzk4ZS00OTU3LWEwZmMtN2Y0NTdlZjU0NGFiXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_.jpg"
+      "image": "https://m.media-amazon.com/images/M/MV5BNTA0ZmVmZDctMGUyYy00ZWU2LTk3NDQtZTA4MmI2NzRlYjg5XkEyXkFqcGc@._V1_.jpg"
     },
     {
       "id": "23",
@@ -271,188 +267,192 @@
     },
     {
       "id": "24",
-      "title": "Animal World",
+      "title": "The Hurricane Heist",
       "year": 2018,
-      "rating": 6.5,
+      "rating": 5.1,
       "role": "score mix assistant",
-      "image": "https://m.media-amazon.com/images/M/MV5BNTA0ZmVmZDctMGUyYy00ZWU2LTk3NDQtZTA4MmI2NzRlYjg5XkEyXkFqcGc@._V1_.jpg"
+      "image": "https://m.media-amazon.com/images/M/MV5BMzg3Y2MyNjgtMzk4ZS00OTU3LWEwZmMtN2Y0NTdlZjU0NGFiXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_.jpg"
     },
     {
       "id": "25",
-      "title": "The Darkest Minds",
+      "title": "12 Strong",
       "year": 2018,
-      "rating": 5.7,
+      "rating": 6.5,
       "role": "score mix assistant",
-      "image": "https://m.media-amazon.com/images/M/MV5BMTUxOGE3OTUtM2I2My00YzE3LTg2NDktZTI3NjE4NDdjMGFiXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_.jpg"
+      "image": "https://m.media-amazon.com/images/M/MV5BNTEzMjk3NzkxMV5BMl5BanBnXkFtZTgwNjY2NDczNDM@._V1_.jpg"
     },
     {
       "id": "26",
-      "title": "The Predator",
+      "title": "Oceans of Wonder",
       "year": 2018,
-      "rating": 5.3,
+      "rating": 8.1,
+      "type": "TV Special",
       "role": "score mix assistant",
-      "image": "https://m.media-amazon.com/images/M/MV5BMjM5MDk2NDIxMF5BMl5BanBnXkFtZTgwNjU5NDk3NTM@._V1_.jpg"
+      "image": "https://m.media-amazon.com/images/M/MV5BYjExNTZhMTctYTA2OC00MzgxLTk1NzMtNmRjY2I1NzNiYWUxXkEyXkFqcGc@._V1_.jpg"
     },
     {
       "id": "27",
-      "title": "Green Book",
-      "year": 2018,
-      "rating": 8.2,
+      "title": "Blue Planet II",
+      "year": 2017,
+      "rating": 9.3,
+      "type": "TV Mini Series",
       "role": "score mix assistant",
-      "image": "https://m.media-amazon.com/images/M/MV5BYzIzYmJlYTYtNGNiYy00N2EwLTk4ZjItMGYyZTJiOTVkM2RlXkEyXkFqcGdeQXVyODY1NDk1NjE@._V1_.jpg"
+      "episodes": 7,
+      "image": "https://m.media-amazon.com/images/M/MV5BODI3YTZhNmEtMTlmYy00NjBlLTkyOGEtYTk2YWVmMzAxZjQ4XkEyXkFqcGc@._V1_.jpg"
     },
     {
       "id": "28",
-      "title": "FIFA 19",
-      "year": 2018,
-      "rating": 6.3,
-      "type": "Video Game",
+      "title": "Hans Zimmer Live in Prague",
+      "year": 2017,
+      "rating": 9.1,
+      "type": "TV Movie",
       "role": "score mix assistant",
-      "image": "https://m.media-amazon.com/images/M/MV5BOGQ5ZWZiOTQtY2IwYS00YTY0LTgxMDktOTZkNmI4MmIyYzU0XkEyXkFqcGc@._V1_.jpg"
+      "image": "https://m.media-amazon.com/images/M/MV5BZTFiMWVmYWQtZTJiZi00MTZlLWI1MjUtZDNlYWExZjQ3NDA1XkEyXkFqcGc@._V1_.jpg"
     },
     {
       "id": "29",
-      "title": "The Cry",
-      "year": 2018,
+      "title": "It",
+      "year": 2017,
       "rating": 7.3,
-      "type": "TV Mini Series",
-      "role": "music scoring mixer",
-      "episodes": 4,
-      "image": "https://m.media-amazon.com/images/M/MV5BMGZkMDY3OTctNmVkZS00NWUxLWIyZDEtOWM4MjZjZGUwOTMxXkEyXkFqcGc@._V1_.jpg"
+      "role": "score mix assistant (uncredited)",
+      "image": "https://m.media-amazon.com/images/M/MV5BZDVkZmI0YzAtNzdjYi00ZjhhLWE1ODEtMWMzMWMzNDA0NmQ4XkEyXkFqcGdeQXVyNzYzODM3Mzg@._V1_.jpg"
     },
     {
       "id": "30",
-      "title": "The Intruder",
-      "year": 2019,
-      "rating": 5.6,
-      "role": "score mix assistant",
-      "image": "https://m.media-amazon.com/images/M/MV5BNTczMzc4NDY0MF5BMl5BanBnXkFtZTgwMjI3Njg3NjM@._V1_.jpg"
+      "title": "The Nut Job 2: Nutty by Nature",
+      "year": 2017,
+      "rating": 5.5,
+      "role": [
+        "additional recording engineer assistant",
+        "recording engineer assistant",
+        "score mix assistant"
+      ],
+      "image": "https://m.media-amazon.com/images/M/MV5BMzE2MWI4OGYtNzNjZi00NzFiLWJjOGYtOThmZDg2MWY2OWVlXkEyXkFqcGc@._V1_.jpg"
     },
     {
       "id": "31",
-      "title": "Dora and the Lost City of Gold",
-      "year": 2019,
-      "rating": 6.1,
-      "role": "score mix assistant",
-      "image": "https://m.media-amazon.com/images/M/MV5BNTNmNmQ3YjgtZmMxMi00ZGVmLTllZTUtZWIyZDMyNjJhODU1XkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_.jpg"
+      "title": "Dunkirk",
+      "year": 2017,
+      "rating": 7.8,
+      "role": "additional engineering",
+      "image": "https://m.media-amazon.com/images/M/MV5BN2YyZjQ0NTEtNzU5MS00NGZkLTg0MTEtYzJmMWY3MWRhZjM2XkEyXkFqcGdeQXVyMDA4NzMyOA@@._V1_.jpg"
     },
     {
       "id": "32",
-      "title": "Wonder Woman 1984",
-      "year": 2020,
-      "rating": 5.4,
-      "role": "music editor",
-      "image": "https://m.media-amazon.com/images/M/MV5BMGM0Zjk3MzctZWJlOS00NDk0LWE1M2ItMmYxMWI4NTc0ZDA3XkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_.jpg"
+      "title": "Despicable Me 3",
+      "year": 2017,
+      "rating": 6.2,
+      "role": "score mix assistant",
+      "image": "https://m.media-amazon.com/images/M/MV5BNjUyNzQ2MTg3Ml5BMl5BanBnXkFtZTgwNzE4NDM3MTI@._V1_.jpg"
     },
     {
       "id": "33",
-      "title": "Army of Thieves",
-      "year": 2021,
-      "rating": 6.4,
-      "role": "music editor",
-      "image": "https://m.media-amazon.com/images/M/MV5BZGVhMTAyMDktM2E5NS00ODAwLWE0ZTUtOGZhZmZlNDQ3YTI4XkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_.jpg"
+      "title": "Wonder Woman",
+      "year": 2017,
+      "rating": 7.3,
+      "role": "assistant engineer",
+      "image": "https://m.media-amazon.com/images/M/MV5BMjEzYmZkNjktODBmYi00NzNkLWIzMjItMjhkMWZiZTZlN2MwXkEyXkFqcGc@._V1_.jpg"
     },
     {
       "id": "34",
-      "title": "Army of the Dead",
-      "year": 2021,
-      "rating": 5.8,
-      "role": "music editor",
-      "image": "https://m.media-amazon.com/images/M/MV5BMjAwNzA3NDYxMl5BMl5BanBnXkFtZTgwMTcwNjc4NjM@._V1_.jpg"
+      "title": "Pirates of the Caribbean: Dead Men Tell No Tales",
+      "year": 2017,
+      "rating": 6.5,
+      "role": "assistant engineer",
+      "image": "https://m.media-amazon.com/images/M/MV5BMTYyMTcxNzc5M15BMl5BanBnXkFtZTgwOTg2ODE2MTI@._V1_.jpg"
     },
     {
       "id": "35",
-      "title": "Day Shift",
-      "year": 2022,
-      "rating": 6.1,
-      "role": "music editor",
-      "image": "https://m.media-amazon.com/images/M/MV5BYzViOGY1NDQtZGEwYi00ZGI4LTliNzgtZmM3NDNmZGY0MTAzXkEyXkFqcGdeQXVyMTM1MTE1NDMx._V1_.jpg"
+      "title": "Sand Castle",
+      "year": 2017,
+      "rating": 6.3,
+      "role": "assistant recording engineer",
+      "image": "https://m.media-amazon.com/images/M/MV5BMDFmNGUwYTMtNDMyMC00YWM2LWEwOTktNTM1YWI0NDRiMDY3XkEyXkFqcGc@._V1_.jpg"
     },
     {
       "id": "36",
-      "title": "Slumberland",
-      "year": 2022,
-      "rating": 6.7,
-      "role": "music editor",
-      "image": "https://m.media-amazon.com/images/M/MV5BZjU3MDFlYTgtMTRkMC00ODQ2LTgyY2ItOWU4ZDZlZDZlN2MwXkEyXkFqcGdeQXVyMTQyMTMwOTk0._V1_.jpg"
+      "title": "The Boss Baby",
+      "year": 2017,
+      "rating": 6.3,
+      "role": [
+        "overdub assistant engineer",
+        "score mix assistant engineer"
+      ],
+      "image": "https://m.media-amazon.com/images/M/MV5BMTg5MzUxNzgxNV5BMl5BanBnXkFtZTgwMTM2NzQ3MjI@._V1_.jpg"
     },
     {
       "id": "37",
-      "title": "Your Place or Mine",
-      "year": 2023,
-      "rating": 5.7,
-      "role": "music editor",
-      "image": "https://m.media-amazon.com/images/M/MV5BNjM3ZDBmOWUtYjliYi00OGRhLThjYmMtNDM0MTcxNTY3YjMwXkEyXkFqcGdeQXVyMTUyNjc3NDQ4._V1_.jpg"
+      "title": "The Ottoman Lieutenant",
+      "year": 2017,
+      "rating": 6.4,
+      "role": "score mix assistant",
+      "image": "https://m.media-amazon.com/images/M/MV5BMTg3ZDVlMjgtNTM4Yi00ZTQ3LThmM2QtYzdjZmRjMTcxMTkzXkEyXkFqcGdeQXVyNDExMzMxNjE@._V1_.jpg"
     },
     {
       "id": "38",
-      "title": "One Piece",
-      "year": 2023,
-      "type": "TV Series",
-      "episodes": 8,
-      "rating": 8.3,
-      "role": "score mixer",
-      "image": "https://m.media-amazon.com/images/M/MV5BY2VkNTc1ZGYtY2RkYy00NzdkLThjNzQtY2UzYmQ2Y2NkODdkXkEyXkFqcGdeQXVyMTAxNDE3MTE5._V1_.jpg"
+      "title": "Rings",
+      "year": 2017,
+      "rating": 4.5,
+      "role": "assistant engineer",
+      "image": "https://m.media-amazon.com/images/M/MV5BYTQzZjhiYjYtNDMzOS00ZjNiLTg2MGMtYWZmYWNjN2U5YTVmXkEyXkFqcGdeQXVyNjI3OTcxOTU@._V1_.jpg"
     },
     {
       "id": "39",
-      "title": "Mortal Kombat 1",
-      "year": 2023,
-      "type": "Video Game",
-      "rating": 8.4,
-      "role": "score mixer",
-      "image": "https://m.media-amazon.com/images/M/MV5BNzA0ODlhNzctMjMzYi00MzYxLWI3ZWEtOTZhZDE4NTQ2NTI3XkEyXkFqcGdeQXVyMjYwMDk5NjE@._V1_.jpg"
+      "title": "Planet Earth II",
+      "year": 2016,
+      "rating": 9.5,
+      "type": "TV Mini Series",
+      "role": "assistant engineer",
+      "episodes": 6,
+      "image": "https://m.media-amazon.com/images/M/MV5BMzY4NDBkMWYtYzdkYy00YzBjLWJmODctMWM4YjYzZTdjNWE5XkEyXkFqcGc@._V1_.jpg"
     },
     {
       "id": "40",
-      "title": "FIFA 23",
-      "year": 2023,
-      "type": "Video Game",
-      "role": "score mixer",
-      "image": "https://m.media-amazon.com/images/M/MV5BZGY5ZjVhZjEtZmY3NC00M2I2LWIyZWUtZDk5NDc4ZDRlZTk0XkEyXkFqcGdeQXVyMTUyNjc3NDQ4._V1_.jpg"
+      "title": "Inferno",
+      "year": 2016,
+      "rating": 6.2,
+      "role": "assistant engineer",
+      "image": "https://m.media-amazon.com/images/M/MV5BMTUzNTE2NTkzMV5BMl5BanBnXkFtZTgwMDAzOTUyMDI@._V1_.jpg"
     },
     {
       "id": "41",
-      "title": "Dune: Part Two",
-      "year": 2024,
-      "rating": 8.7,
-      "role": "score mixer",
-      "image": "https://m.media-amazon.com/images/M/MV5BNDMwNTczOWQtZWVkZC00ODBlLTk5YzItNGQ0YjFlN2Q3NDVjXkEyXkFqcGdeQXVyMTUzMTg2ODkz._V1_.jpg"
+      "title": "The Edge of Seventeen",
+      "year": 2016,
+      "rating": 7.3,
+      "role": "assistant engineer",
+      "image": "https://m.media-amazon.com/images/M/MV5BODE2NjE4NjYyMV5BMl5BanBnXkFtZTgwNzk3MjQ0OTE@._V1_.jpg"
     },
     {
       "id": "42",
-      "title": "Halo",
-      "year": 2024,
-      "type": "TV Series",
-      "role": "score mixer",
-      "episodes": 6,
-      "image": "https://m.media-amazon.com/images/M/MV5BNjk3MWU0YTUtOTg0OS00NTliLTliZGUtNTY0YjhhNmNkMTVjXkEyXkFqcGdeQXVyMTA2ODMzMDU1._V1_.jpg"
+      "title": "The Last Face",
+      "year": 2016,
+      "rating": 5,
+      "role": "assistant engineer",
+      "image": "https://m.media-amazon.com/images/M/MV5BMTg1NTU3OTcyMF5BMl5BanBnXkFtZTgwMDY5Njc3MDI@._V1_.jpg"
     },
     {
       "id": "43",
-      "title": "Fatal Attraction",
-      "year": 2023,
-      "type": "TV Series",
-      "role": "score mixer",
-      "episodes": 8,
-      "image": "https://m.media-amazon.com/images/M/MV5BMzBiMTgyZTUtNGRkOC00MTc1LTkyNDEtYTcyOTZkYTQ2ZDlmXkEyXkFqcGdeQXVyODk4OTc3MTY@._V1_.jpg"
+      "title": "Captain America: Civil War",
+      "year": 2016,
+      "rating": 7.8,
+      "role": "assistant engineer",
+      "image": "https://m.media-amazon.com/images/M/MV5BMjQ0MTgyNjAxMV5BMl5BanBnXkFtZTgwNjUzMDkyODE@._V1_.jpg"
     },
     {
       "id": "44",
-      "title": "One Piece (Season 2)",
-      "year": 2025,
-      "type": "TV Series",
-      "role": "score mixer",
-      "episodes": 7,
-      "image": "https://m.media-amazon.com/images/M/MV5BY2VkNTc1ZGYtY2RkYy00NzdkLThjNzQtY2UzYmQ2Y2NkODdkXkEyXkFqcGdeQXVyMTAxNDE3MTE5._V1_.jpg"
+      "title": "Batman v Superman: Dawn of Justice",
+      "year": 2016,
+      "rating": 6.5,
+      "role": "assistant engineer",
+      "image": "https://m.media-amazon.com/images/M/MV5BYThjYzcyYzItNTVjNy00NDk0LTgwMWQtYjMwNmNlNWJhMzMyXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_FMjpg_UY576_.jpg"
     },
     {
       "id": "45",
-      "title": "Red Sonja",
-      "year": 2025,
-      "rating": null,
-      "role": "score mixer",
-      "image": "https://m.media-amazon.com/images/M/MV5BZjhjZDA5NmUtY2ZkZC00NDEzLTkxZDEtNzliZGE5YzU2NzY3XkEyXkFqcGdeQXVyNzA1MzI3NzE@._V1_.jpg"
+      "title": "Kung Fu Panda 3",
+      "year": 2016,
+      "rating": 7.1,
+      "role": "score assistant engineer",
+      "image": "https://m.media-amazon.com/images/M/MV5BMTUyNzgxNjg2M15BMl5BanBnXkFtZTgwMTY1NDI1NjE@._V1_.jpg"
     }
   ]
 }
