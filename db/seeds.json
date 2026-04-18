@@ -49,33 +49,65 @@
   },
   "known_for": [
     {
-      "id": 42,
-      "title": "One Piece",
-      "year": 2023,
+      "id": 46,
+      "title": "One Piece: Into The Grand Line",
+      "year": 2026,
       "rating": 8.3,
       "type": "TV Series",
-      "role": "Additional Mixing Engineer",
+      "role": "score mixer",
       "episodes": 8,
-      "image": "https://m.media-amazon.com/images/M/MV5BYjI0YWJhZTUtMTJhNy00OTEzLThkMjItOThkMmIzMmU4YjliXkEyXkFqcGc@._V1_.jpg"
+      "image": "https://m.media-amazon.com/images/M/MV5BNDk5MDFlYjYtZjQ5ZS00ZjhkLWJkYmMtYzhmZjkyOWExY2M3XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg"
     },
     {
-      "id": 33,
-      "title": "The Lion King",
-      "year": 2019,
-      "rating": 6.8,
-      "role": "Additional Engineering",
-      "image": "https://m.media-amazon.com/images/M/MV5BMjIwMjE1Nzc4NV5BMl5BanBnXkFtZTgwNDg4OTA1NzM@._V1_.jpg"
+      "id": 47,
+      "title": "The Madison",
+      "year": 2026,
+      "rating": 7.9,
+      "role": "score mixer",
+      "image": "https://m.media-amazon.com/images/M/MV5BZGFiODdjY2UtNzAxZC00Mjc3LWJiZTQtYzQ2ZTM3ZWMzNjk0XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg"
     },
     {
-      "id": 39,
-      "title": "Dune",
-      "year": 2021,
-      "rating": 8,
-      "role": "Music Department",
-      "image": "https://m.media-amazon.com/images/M/MV5BMDQ0NjgyN2YtNWViNS00YjA3LTkxNDktYzFkZTExZGMxZDkxXkEyXkFqcGdeQXVyODE5NzE3OTE@._V1_.jpg"
+      "id": 45,
+      "title": "Red Sonja",
+      "year": 2025,
+      "rating": 4.9,
+      "role": "score mixer",
+      "image": "https://m.media-amazon.com/images/M/MV5BOWQ4NWZmMjEtZmNmNC00MGM4LWFlYWYtNzc0MTA5MGQ0MWRjXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg"
     }
   ],
   "music_credits": [
+    {
+      "id": 48,
+      "title": "Marshals",
+      "year": 2026,
+      "rating": 6,
+      "role": "ost mix engineer",
+      "image": "https://m.media-amazon.com/images/M/MV5BOTk4NThjNzgtMjVjNi00MjdjLWE1NDctMzRhNTI1Y2RiN2NkXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg"
+    },
+    {
+      "id": 47,
+      "title": "The Madison",
+      "year": 2026,
+      "rating": 7.9,
+      "role": "score mixer",
+      "image": "https://m.media-amazon.com/images/M/MV5BZGFiODdjY2UtNzAxZC00Mjc3LWJiZTQtYzQ2ZTM3ZWMzNjk0XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg"
+    },
+    {
+      "id": 46,
+      "title": "One Piece: Into The Grand Line",
+      "year": 2026,
+      "rating": 8.3,
+      "role": "score mixer",
+      "image": "https://m.media-amazon.com/images/M/MV5BNDk5MDFlYjYtZjQ5ZS00ZjhkLWJkYmMtYzhmZjkyOWExY2M3XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg"
+    },
+    {
+      "id": 45,
+      "title": "Red Sonja",
+      "year": 2025,
+      "rating": 4.6,
+      "role": "score mixer",
+      "image": "https://m.media-amazon.com/images/M/MV5BOWQ4NWZmMjEtZmNmNC00MGM4LWFlYWYtNzc0MTA5MGQ0MWRjXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg"
+    },
     {
       "id": 44,
       "title": "Black Dog",
