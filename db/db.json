@@ -47,34 +47,8 @@
       }
     ]
   },
-  "known_for": [
-    {
-      "id": 46,
-      "title": "One Piece: Into The Grand Line",
-      "year": 2026,
-      "rating": 8.3,
-      "type": "TV Series",
-      "role": "score mixer",
-      "episodes": 8,
-      "image": "https://m.media-amazon.com/images/M/MV5BNDk5MDFlYjYtZjQ5ZS00ZjhkLWJkYmMtYzhmZjkyOWExY2M3XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg"
-    },
-    {
-      "id": 47,
-      "title": "The Madison",
-      "year": 2026,
-      "rating": 7.9,
-      "role": "score mixer",
-      "image": "https://m.media-amazon.com/images/M/MV5BZGFiODdjY2UtNzAxZC00Mjc3LWJiZTQtYzQ2ZTM3ZWMzNjk0XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg"
-    },
-    {
-      "id": 45,
-      "title": "Red Sonja",
-      "year": 2025,
-      "rating": 4.9,
-      "role": "score mixer",
-      "image": "https://m.media-amazon.com/images/M/MV5BOWQ4NWZmMjEtZmNmNC00MGM4LWFlYWYtNzc0MTA5MGQ0MWRjXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg"
-    }
-  ],
+  "known_for": [46, 47, 45],
+
   "music_credits": [
     {
       "id": 48,
